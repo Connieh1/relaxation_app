@@ -1,0 +1,25 @@
+{
+  "name": "relaxation-app",
+  "version": "1.0.0",
+  "description": "Breathing Relaxation App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connieh1/relaxation_app.git"
+  },
+  "keywords": [
+    "breathe",
+    "relax",
+    "deep",
+    "breathing"
+  ],
+  "author": "C. Hyman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Connieh1/relaxation_app/issues"
+  },
+  "homepage": "https://github.com/Connieh1/relaxation_app#readme"
+}
