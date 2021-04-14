@@ -11,9 +11,11 @@ $ npm install --save relaxation_app
 ## Usage
 
 ```js
-var relaxationApp = require('relaxation_app');
+var relaxationApp = require("relaxation_app");
 relaxationApp();
 ```
+
+Website: https://relaxation-breathing.netlify.app/
 
 ## License
 
